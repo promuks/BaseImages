@@ -1,0 +1,8 @@
+#!/bin/sh
+
+cat <<EOF
+This is a base image for Java based applications:
+Sample invocation:
+You can then run the resulting image via:
+docker run atp-jdk .
+EOF
